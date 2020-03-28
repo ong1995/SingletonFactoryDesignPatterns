@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\Singleton and the Factory design patterns\Singleton and the Factory design patterns\bin\Debug\netcoreapp2.1\SingletonDesignPatterns.deps.json
+C:\Users\USER\source\repos\Singleton and the Factory design patterns\Singleton and the Factory design patterns\bin\Debug\netcoreapp2.1\SingletonDesignPatterns.runtimeconfig.json
+C:\Users\USER\source\repos\Singleton and the Factory design patterns\Singleton and the Factory design patterns\bin\Debug\netcoreapp2.1\SingletonDesignPatterns.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Singleton and the Factory design patterns\Singleton and the Factory design patterns\bin\Debug\netcoreapp2.1\SingletonDesignPatterns.dll
+C:\Users\USER\source\repos\Singleton and the Factory design patterns\Singleton and the Factory design patterns\bin\Debug\netcoreapp2.1\SingletonDesignPatterns.pdb
+C:\Users\USER\source\repos\Singleton and the Factory design patterns\Singleton and the Factory design patterns\obj\Debug\netcoreapp2.1\SingletonDesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Singleton and the Factory design patterns\Singleton and the Factory design patterns\obj\Debug\netcoreapp2.1\SingletonDesignPatterns.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Singleton and the Factory design patterns\Singleton and the Factory design patterns\obj\Debug\netcoreapp2.1\SingletonDesignPatterns.AssemblyInfo.cs
+C:\Users\USER\source\repos\Singleton and the Factory design patterns\Singleton and the Factory design patterns\obj\Debug\netcoreapp2.1\SingletonDesignPatterns.dll
+C:\Users\USER\source\repos\Singleton and the Factory design patterns\Singleton and the Factory design patterns\obj\Debug\netcoreapp2.1\SingletonDesignPatterns.pdb
+C:\Users\USER\source\repos\Singleton and the Factory design patterns\Singleton and the Factory design patterns\obj\Debug\netcoreapp2.1\SingletonDesignPatterns.csprojAssemblyReference.cache
